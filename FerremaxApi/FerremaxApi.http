@@ -1,0 +1,6 @@
+@FerremaxApi_HostAddress = http://localhost:5069
+
+GET {{FerremaxApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
